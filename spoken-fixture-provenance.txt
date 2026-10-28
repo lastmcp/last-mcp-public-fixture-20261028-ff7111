@@ -1,0 +1,31 @@
+Last MCP synthetic speech test fixture — provenance and scope
+
+Public file: spoken-fixture.wav
+Source artifact name supplied by the AssemblyAI integration owner: owned-synthetic.wav
+Authored input text: Hello world. This is a synthetic Last MCP audio test.
+Generator: CMU Flite 2.2, bundled cmu_us_kal voice; unchanged libraries.
+This publication copies the supplied WAV exactly; no resynthesis, transcoding,
+voice/library modifications, speech-recognition request or provider upload.
+
+WAV: uncompressed PCM, one channel, 8000 samples/second, 16 bits/sample;
+36362 frames; duration 4.54525 seconds; complete file length 72768 bytes.
+SHA-256: 53d0c7b2698228d006802ac30aac739fd9ab776c64fca0630eff6e4e2d17df18
+
+Notices (both supplied files retained unmodified in full):
+- flite-COPYING.txt: complete Flite distribution copyright/permission notices,
+  conditions, disclaimers and component exceptions.
+- flite-kal-source-provenance.txt: supplied KAL voice source, including complete
+  CMU notice, conditions, disclaimer and original author attribution.
+The publisher read both complete files before publication. The voice is not
+claimed to be Last MCP-owned/CC0. No CMU or contributor endorsement is claimed.
+Original authors' names and notices have not been deleted or rewritten.
+
+The pre-existing original Last MCP HTML, red/blue PNGs and non-speech tone.wav
+remain byte-for-byte unchanged. Licensing of the original material does not
+supersede third-party voice/software notices; no blanket repository-wide CC0
+license is granted. The new speech is plainly labeled synthetic test content,
+not an impersonation or a recording of the test author.
+
+Purpose: owned, free, public static fixture infrastructure only. This is not
+GitHub 875-source action coverage or AssemblyAI recognition/transcription proof.
+Publication does not authorize an AssemblyAI upload or transcription call.
